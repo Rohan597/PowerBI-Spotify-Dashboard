@@ -56,6 +56,7 @@ def get_track_details(track_id, token):
     json_data = response.json()
     return json_data['album']['images'][0]['url']
 
+# Make sure to replace the CLIENT_ID and CLIENT_SECRET with your respective ID through Spotify Dashboard
 client_id = os.getenv('client_id')
 client_secret = os.getenv('client_secret')
 
