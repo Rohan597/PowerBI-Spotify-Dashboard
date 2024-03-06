@@ -137,7 +137,7 @@ Remember, the specifics of how to use the dashboard and scripts will depend on t
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for more details.
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for more details.
 
 ## Acknowledgments
 
